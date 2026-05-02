@@ -1,0 +1,10 @@
+sound
+plant
+robot
+metal
+water
+chair
+table
+light
+cable
+green
